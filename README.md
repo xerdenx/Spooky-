@@ -49,11 +49,9 @@ Via **Sketch → Include Library → Add .ZIP Library**:
 ### 4. Upload
 Select the correct port under **Tools → Port** and click **Upload**.
 
-## Contact
-- Email: febin.exe07@gmail.com
-- Instagram: [@febin.exe07](https://instagram.com/febin.exe07)
-- Telegram: [@Spooky_exe07](https://t.me/Spooky_exe07)
-
 ## Credits
 Based on nRFBox by original authors.
 https://github.com/cifertech/nrfbox
+
+## NOTE
+This project is discontinued.
